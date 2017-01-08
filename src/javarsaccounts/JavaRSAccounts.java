@@ -30,7 +30,7 @@ public class JavaRSAccounts {
     private final static String FILENAME_PNG = "test.png";
     private final static String FILENAME_JPG = "test.jpg";
     private final static String RUNESCAPE_URL = "https://secure.runescape.com/m=account-creation/g=oldscape/create_account?trialactive=true";
-    private final static String RANDGEN_URL = "http://api.randomuser.me/?nat=gb";
+    private final static String RANDGEN_URL = "https://randomuser.me/api/?nat=gb";
 
     public static void main(String[] args) throws Exception {
 
